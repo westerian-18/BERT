@@ -1,0 +1,20 @@
+.demo {
+  padding-top: 120px;
+  /*color:  #163253;*/
+  color: #83a2d3;
+  margin-left: 150px;
+  font: 20px "Corier New", monospace;
+  margin-bottom: 60px;
+}
+
+.demo iframe {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  /*color:  #163253;*/
+  margin-left: 150px;
+  font: 20px "Corier New", monospace;
+}
+.demo a{
+    color:#5c769b;
+    margin-left: 10px;
+}
